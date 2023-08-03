@@ -1,1 +1,19 @@
 /* Write your CSS code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  padding: 50vh;
+}
+.emoji-container {
+  width: auto;
+  display: flex;
+  margin: 20px;
+  justify-content: space-evenly;
+  text-align: center;
+  font-family: Roboto;
+  background-color: #ffffff;
+}
+.love-container {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 20px;
+}
